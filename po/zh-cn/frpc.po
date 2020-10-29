@@ -145,7 +145,7 @@ msgstr "Frp 是一个可用于内网穿透的高性能的反向代理应用。"
 #: luci-app-frpc/luasrc/model/cbi/frpc/server-detail.lua:10
 #: luci-app-frpc/luasrc/model/cbi/frpc/servers.lua:8
 msgid "Frpc"
-msgstr ""
+msgstr "内网穿透"
 
 #: luci-app-frpc/luasrc/model/cbi/frpc/servers.lua:8
 msgid "Frps Servers"
